@@ -1,0 +1,1 @@
+AppxPackage MicrosoftWindows.Client.WebExperience* -AllUsers | Remove-AppxPackage "widget"
